@@ -1,1 +1,1 @@
-# stepin-black-and-white-knights
+# stepin-mini project
